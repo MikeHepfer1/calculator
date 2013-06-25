@@ -87,8 +87,8 @@
 			children = (
 				3FFA9D28177894C90067C3B3 /* AppDelegate.h */,
 				3FFA9D29177894C90067C3B3 /* AppDelegate.m */,
-				3FFA9D31177894C90067C3B3 /* ViewController.h */,
 				3FFA9D32177894C90067C3B3 /* ViewController.m */,
+				3FFA9D31177894C90067C3B3 /* ViewController.h */,
 				3FFA9D34177894C90067C3B3 /* ViewController_iPhone.xib */,
 				3FFA9D37177894C90067C3B3 /* ViewController_iPad.xib */,
 				3FFA9D20177894C90067C3B3 /* Supporting Files */,
@@ -312,6 +312,7 @@
 				3FFA9D3E177894C90067C3B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
